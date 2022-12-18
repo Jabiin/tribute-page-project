@@ -1,7 +1,7 @@
 # freecodcamp-2
-# Freecodecamp
 
-**first certicate project of the [Freecodecamp](https://www.freecodecamp.org/) and it's lessons**
+
+**the second certicate project of the [Freecodecamp](https://www.freecodecamp.org/) and it's lessons**
 
 
 
