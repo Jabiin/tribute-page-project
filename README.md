@@ -18,5 +18,5 @@
 
 [my freecodecamp account](https://www.freecodecamp.org/maan_m_m)
 
-####   [github pages of tribute page project](https://abdurahmanjabiin.github.io/freecodcamp-2/)
+####   [github pages of tribute page project](https://abdurahmanjabiin.github.io/tribute-page-project/)
 
